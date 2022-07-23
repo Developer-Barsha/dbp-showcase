@@ -1,0 +1,24 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.step2{
+    width: 400px;
+    height: 400px;
+    box-shadow: 1px 1px 15px #999;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.step2 img{
+    width: 200px;
+    height: 50px;
+    margin: 10px 0;
+}
+
+.step2 h3{
+    color: rgb(137, 142, 163);
+}
