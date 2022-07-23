@@ -53,6 +53,8 @@ body {
     justify-content: space-between;
     align-items: center;
     margin: auto;
+    color: rgb(137, 142, 163);
+    font-weight: bold;
 }
 
 .step {
@@ -63,4 +65,7 @@ body {
     font-weight: bold;
     box-shadow: 1px 1px 15px rgb(209, 208, 208);
     border: none;
+    font-size: 16px;
+    border-radius: 3px;
+    cursor: pointer;
 }
